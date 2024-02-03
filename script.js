@@ -52,6 +52,14 @@ const tree = {
                     },
                     children: ['INSOLT'],
                 },
+                {
+                    tag: 'a',
+                    attributes: {
+                        href: 'https://www.interia.pl',
+                        target: '_blank',
+                    },
+                    children: ['poczytaj w Interia'],
+                },
             ]
         }
     ]
