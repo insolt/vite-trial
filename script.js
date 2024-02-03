@@ -44,14 +44,6 @@ const tree = {
                     },
                     children: ['CASTLE'],
                 },
-                {
-                    tag: 'a',
-                    attributes: {
-                        href: 'https://www.insolt.pl',
-                        target: '_blank',
-                    },
-                    children: ['INSOLT'],
-                },
             ]
         }
     ]
