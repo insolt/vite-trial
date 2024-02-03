@@ -60,6 +60,14 @@ const tree = {
                     },
                     children: ['poczytaj w Interia'],
                 },
+                {
+                    tag: 'a',
+                    attributes: {
+                        href: 'https://www.wp.pl',
+                        target: '_blank',
+                    },
+                    children: ['poczytaj w wp'],
+                },
             ]
         }
     ]
